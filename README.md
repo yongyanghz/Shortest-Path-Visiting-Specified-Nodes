@@ -1,6 +1,6 @@
 # Shortest-Path-Visiting-Specified-Nodes
 
-We anticipated an programming competition of HUAWEI company.
+We anticipated a programming competition of HUAWEI company.
 http://codecraft.huawei.com/
 
 Implement the algorithm seaching for shortest path visiting specified nodes
