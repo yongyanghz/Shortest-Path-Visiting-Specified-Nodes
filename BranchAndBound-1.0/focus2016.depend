@@ -1,0 +1,1153 @@
+# depslib dependency file v1.0
+1459394580 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound\future_net\datastructure.cpp
+	"dataStructure.h"
+
+1459393747 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound\future_net\datastructure.h
+	<set>
+	<vector>
+	<iostream>
+	<cstdlib>
+	<string>
+	<bitset>
+	<string.h>
+	"matrix.h"
+
+1459403562 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound\future_net\future_net.cpp
+	"route.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+	<iostream>
+
+1459402861 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound\future_net\route.h
+	<vector>
+	<iostream>
+	<set>
+	<queue>
+	<string>
+	<cstring>
+	<stdlib.h>
+	<stack>
+	"dataStructure.h"
+	"matrix.h"
+	"munkres.h"
+	"branchAndBound.h"
+
+1459387652 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound\future_net\matrix.h
+	<cstdlib>
+	<iostream>
+	<string>
+	<cassert>
+	<algorithm>
+	<set>
+	<vector>
+	"dataStructure.h"
+
+1459406268 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound\future_net\munkres.h
+	<string>
+	<iostream>
+	<cmath>
+	<utility>
+	<limits>
+	<bitset>
+	"matrix.h"
+	"dataStructure.h"
+
+1459386513 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound\future_net\lib\lib_io.h
+
+1458821090 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound\future_net\lib\lib_time.h
+
+1459386513 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound\future_net\io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1459387652 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound\future_net\matrix.cpp
+	"matrix.h"
+
+1459067395 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound\future_net\munkres.cpp
+	"munkres.h"
+
+1459405559 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound\future_net\route.cpp
+	<vector>
+	<iostream>
+	<set>
+	<queue>
+	<string>
+	<cstring>
+	<stdlib.h>
+	<stack>
+	<stdio.h>
+	"route.h"
+	"lib_record.h"
+	<ctime>
+
+1459339897 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound\future_net\lib\lib_record.h
+
+1459168517 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound\include\qproblem.h
+	<iostream>
+
+1459238412 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound\future_net\brandandbound.h
+	<queue>
+	"dataStructure.h"
+	"matrix.h"
+	"munkres.h"
+
+1459390210 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound\future_net\branchandbound.h
+	<queue>
+	<ctime>
+	"dataStructure.h"
+	"matrix.h"
+	"munkres.h"
+
+1459404880 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound\future_net\branchandbound.cpp
+	"branchAndBound.h"
+
+1459520396 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.0\future_net\future_net.cpp
+	"route.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+	<iostream>
+
+1459519210 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.0\future_net\route.h
+	<vector>
+	<iostream>
+	<set>
+	<queue>
+	<string>
+	<cstring>
+	<stdlib.h>
+	<stack>
+	<stdio.h>
+	<ctime>
+	"lib_record.h"
+	"dataStructure.h"
+
+1459339897 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.0\future_net\lib\lib_record.h
+
+1459519092 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.0\future_net\datastructure.h
+	<set>
+	<vector>
+	<iostream>
+	<cstdlib>
+	<string>
+	<bitset>
+	<string.h>
+
+1459511566 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.0\future_net\munkres.h
+	<string>
+	<iostream>
+	<cmath>
+	<utility>
+	<limits>
+	<bitset>
+	"dataStructure.h"
+
+1459511554 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.0\future_net\branchandbound.h
+	<queue>
+	<ctime>
+	"dataStructure.h"
+	"munkres.h"
+
+1459511532 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.0\future_net\lib\lib_io.h
+
+1458821090 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.0\future_net\lib\lib_time.h
+
+1459511713 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.0\future_net\munkres.cpp
+
+1459511712 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.0\future_net\branchandbound.cpp
+
+1459519624 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.0\future_net\datastructure.cpp
+	"dataStructure.h"
+
+1459520456 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.0\future_net\io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1459519255 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.0\future_net\route.cpp
+	"route.h"
+
+1459595860 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.1\future_net\branchandbound.cpp
+	"branchAndBound.h"
+
+1459519624 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.1\future_net\datastructure.cpp
+	"dataStructure.h"
+
+1459556791 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.1\future_net\datastructure.h
+	<set>
+	<vector>
+	<iostream>
+	<cstdlib>
+	<string>
+	<bitset>
+	<string.h>
+
+1459586626 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.1\future_net\future_net.cpp
+	"route.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+	<iostream>
+
+1459584594 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.1\future_net\route.h
+	<vector>
+	<iostream>
+	<set>
+	<queue>
+	<string>
+	<cstring>
+	<stdlib.h>
+	<stack>
+	<stdio.h>
+	<ctime>
+	"lib_record.h"
+	"dataStructure.h"
+	"munkres.h"
+	"branchAndBound.h"
+
+1459339897 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.1\future_net\lib\lib_record.h
+
+1459577960 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.1\future_net\munkres.h
+	<string>
+	<iostream>
+	<cmath>
+	<utility>
+	<limits>
+	<bitset>
+	"dataStructure.h"
+
+1459511532 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.1\future_net\lib\lib_io.h
+
+1458821090 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.1\future_net\lib\lib_time.h
+
+1459586754 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.1\future_net\io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1459601562 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.1\future_net\munkres.cpp
+	"munkres.h"
+
+1459594890 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.1\future_net\route.cpp
+	"route.h"
+
+1459581377 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.1\future_net\branchandbound.h
+	<queue>
+	<ctime>
+	"dataStructure.h"
+	"munkres.h"
+
+1459603489 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.2\future_net\branchandbound.cpp
+	"branchAndBound.h"
+
+1459581377 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.2\future_net\branchandbound.h
+	<queue>
+	<ctime>
+	"dataStructure.h"
+	"munkres.h"
+
+1459556791 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.2\future_net\datastructure.h
+	<set>
+	<vector>
+	<iostream>
+	<cstdlib>
+	<string>
+	<bitset>
+	<string.h>
+
+1459577960 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.2\future_net\munkres.h
+	<string>
+	<iostream>
+	<cmath>
+	<utility>
+	<limits>
+	<bitset>
+	"dataStructure.h"
+
+1459586626 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.2\future_net\future_net.cpp
+	"route.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+	<iostream>
+
+1459584594 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.2\future_net\route.h
+	<vector>
+	<iostream>
+	<set>
+	<queue>
+	<string>
+	<cstring>
+	<stdlib.h>
+	<stack>
+	<stdio.h>
+	<ctime>
+	"lib_record.h"
+	"dataStructure.h"
+	"munkres.h"
+	"branchAndBound.h"
+
+1459339897 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.2\future_net\lib\lib_record.h
+
+1459511532 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.2\future_net\lib\lib_io.h
+
+1458821090 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.2\future_net\lib\lib_time.h
+
+1459586754 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.2\future_net\io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1459601562 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.2\future_net\munkres.cpp
+	"munkres.h"
+
+1459594890 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.2\future_net\route.cpp
+	"route.h"
+
+1459602877 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.2\future_net\datastructure.cpp
+	"dataStructure.h"
+
+1459602877 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.3\future_net\datastructure.cpp
+	"dataStructure.h"
+
+1459556791 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.3\future_net\datastructure.h
+	<set>
+	<vector>
+	<iostream>
+	<cstdlib>
+	<string>
+	<bitset>
+	<string.h>
+
+1459586626 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.3\future_net\future_net.cpp
+	"route.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+	<iostream>
+
+1459584594 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.3\future_net\route.h
+	<vector>
+	<iostream>
+	<set>
+	<queue>
+	<string>
+	<cstring>
+	<stdlib.h>
+	<stack>
+	<stdio.h>
+	<ctime>
+	"lib_record.h"
+	"dataStructure.h"
+	"munkres.h"
+	"branchAndBound.h"
+
+1459339897 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.3\future_net\lib\lib_record.h
+
+1459577960 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.3\future_net\munkres.h
+	<string>
+	<iostream>
+	<cmath>
+	<utility>
+	<limits>
+	<bitset>
+	"dataStructure.h"
+
+1459607378 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.3\future_net\branchandbound.h
+	<queue>
+	<ctime>
+	"dataStructure.h"
+	"munkres.h"
+
+1459511532 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.3\future_net\lib\lib_io.h
+
+1458821090 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.3\future_net\lib\lib_time.h
+
+1459586754 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.3\future_net\io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1459603576 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.3\future_net\munkres.cpp
+	"munkres.h"
+
+1459594890 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.3\future_net\route.cpp
+	"route.h"
+
+1459607408 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.3\future_net\branchandbound.cpp
+	"branchAndBound.h"
+
+1459663919 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.4\future_net\branchandbound.cpp
+	"branchAndBound.h"
+
+1459662336 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.4\future_net\branchandbound.h
+	<queue>
+	<ctime>
+	"dataStructure.h"
+	"munkres.h"
+
+1459650084 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.4\future_net\datastructure.h
+	<set>
+	<vector>
+	<iostream>
+	<cstdlib>
+	<string>
+	<bitset>
+	<string.h>
+
+1459664203 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.4\future_net\munkres.h
+	<string>
+	<iostream>
+	<cmath>
+	<utility>
+	<limits>
+	<bitset>
+	"dataStructure.h"
+
+1459650084 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.4\future_net\datastructure.cpp
+	"dataStructure.h"
+
+1459586626 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.4\future_net\future_net.cpp
+	"route.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+	<iostream>
+
+1459584594 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.4\future_net\route.h
+	<vector>
+	<iostream>
+	<set>
+	<queue>
+	<string>
+	<cstring>
+	<stdlib.h>
+	<stack>
+	<stdio.h>
+	<ctime>
+	"lib_record.h"
+	"dataStructure.h"
+	"munkres.h"
+	"branchAndBound.h"
+
+1459339897 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.4\future_net\lib\lib_record.h
+
+1459511532 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.4\future_net\lib\lib_io.h
+
+1458821090 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.4\future_net\lib\lib_time.h
+
+1459586754 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.4\future_net\io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1459664257 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.4\future_net\munkres.cpp
+	"munkres.h"
+
+1459663946 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.4\future_net\route.cpp
+	"route.h"
+
+1459650084 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5\future_net\datastructure.cpp
+	"dataStructure.h"
+
+1459650084 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5\future_net\datastructure.h
+	<set>
+	<vector>
+	<iostream>
+	<cstdlib>
+	<string>
+	<bitset>
+	<string.h>
+
+1459586626 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5\future_net\future_net.cpp
+	"route.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+	<iostream>
+
+1459584594 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5\future_net\route.h
+	<vector>
+	<iostream>
+	<set>
+	<queue>
+	<string>
+	<cstring>
+	<stdlib.h>
+	<stack>
+	<stdio.h>
+	<ctime>
+	"lib_record.h"
+	"dataStructure.h"
+	"munkres.h"
+	"branchAndBound.h"
+
+1459339897 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5\future_net\lib\lib_record.h
+
+1459664203 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5\future_net\munkres.h
+	<string>
+	<iostream>
+	<cmath>
+	<utility>
+	<limits>
+	<bitset>
+	"dataStructure.h"
+
+1459686846 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5\future_net\branchandbound.h
+	<queue>
+	<ctime>
+	"dataStructure.h"
+	"munkres.h"
+
+1459511532 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5\future_net\lib\lib_io.h
+
+1458821090 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5\future_net\lib\lib_time.h
+
+1459586754 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5\future_net\io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1459759599 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5\future_net\munkres.cpp
+	"munkres.h"
+
+1459760653 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5\future_net\route.cpp
+	"route.h"
+
+1459761437 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5\future_net\branchandbound.cpp
+	"branchAndBound.h"
+
+1459906611 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5.1\future_net\branchandbound.cpp
+	"branchAndBound.h"
+
+1459864180 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5.1\future_net\branchandbound.h
+	<queue>
+	<ctime>
+	"dataStructure.h"
+	"munkres.h"
+
+1459776316 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5.1\future_net\datastructure.h
+	<set>
+	<vector>
+	<iostream>
+	<cstdlib>
+	<string>
+	<bitset>
+	<string.h>
+
+1459906611 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5.1\future_net\munkres.h
+	<string>
+	<iostream>
+	<cmath>
+	<utility>
+	<limits>
+	<bitset>
+	"dataStructure.h"
+
+1459777888 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5.1\future_net\datastructure.cpp
+	"dataStructure.h"
+
+1459586626 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5.1\future_net\future_net.cpp
+	"route.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+	<iostream>
+
+1459584594 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5.1\future_net\route.h
+	<vector>
+	<iostream>
+	<set>
+	<queue>
+	<string>
+	<cstring>
+	<stdlib.h>
+	<stack>
+	<stdio.h>
+	<ctime>
+	"lib_record.h"
+	"dataStructure.h"
+	"munkres.h"
+	"branchAndBound.h"
+
+1459339897 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5.1\future_net\lib\lib_record.h
+
+1459511532 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5.1\future_net\lib\lib_io.h
+
+1458821090 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5.1\future_net\lib\lib_time.h
+
+1459586754 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5.1\future_net\io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1459907728 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5.1\future_net\route.cpp
+	"route.h"
+
+1459907625 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.5.1\future_net\munkres.cpp
+	"munkres.h"
+
+1459935856 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6\future_net\branchandbound.cpp
+	"branchAndBound.h"
+
+1459864180 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6\future_net\branchandbound.h
+	<queue>
+	<ctime>
+	"dataStructure.h"
+	"munkres.h"
+
+1459910134 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6\future_net\datastructure.h
+	<set>
+	<vector>
+	<iostream>
+	<cstdlib>
+	<string>
+	<bitset>
+	<string.h>
+
+1459906611 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6\future_net\munkres.h
+	<string>
+	<iostream>
+	<cmath>
+	<utility>
+	<limits>
+	<bitset>
+	"dataStructure.h"
+
+1459993223 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6\future_net\datastructure.cpp
+	"dataStructure.h"
+
+1459586626 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6\future_net\future_net.cpp
+	"route.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+	<iostream>
+
+1459993034 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6\future_net\route.h
+	<vector>
+	<iostream>
+	<set>
+	<queue>
+	<string>
+	<cstring>
+	<stdlib.h>
+	<stack>
+	<stdio.h>
+	<ctime>
+	"lib_record.h"
+	"dataStructure.h"
+	"munkres.h"
+	"branchAndBound.h"
+
+1459339897 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6\future_net\lib\lib_record.h
+
+1459511532 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6\future_net\lib\lib_io.h
+
+1458821090 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6\future_net\lib\lib_time.h
+
+1459586754 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6\future_net\io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1459935854 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6\future_net\munkres.cpp
+	"munkres.h"
+
+1459932333 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6\future_net\route.cpp
+	"route.h"
+
+1460011000 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6.1\future_net\branchandbound.cpp
+	"branchAndBound.h"
+
+1459998179 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6.1\future_net\branchandbound.h
+	<queue>
+	<ctime>
+	"dataStructure.h"
+	"munkres.h"
+
+1460000462 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6.1\future_net\datastructure.h
+	<set>
+	<vector>
+	<iostream>
+	<cstdlib>
+	<string>
+	<bitset>
+	<string.h>
+
+1459998187 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6.1\future_net\munkres.h
+	<string>
+	<iostream>
+	<cmath>
+	<utility>
+	<limits>
+	<bitset>
+	"dataStructure.h"
+
+1459586626 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6.1\future_net\future_net.cpp
+	"route.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+	<iostream>
+
+1459999583 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6.1\future_net\route.h
+	<vector>
+	<iostream>
+	<set>
+	<queue>
+	<string>
+	<cstring>
+	<stdlib.h>
+	<stack>
+	<stdio.h>
+	<ctime>
+	"lib_record.h"
+	"dataStructure.h"
+	"munkres.h"
+	"branchAndBound.h"
+
+1459339897 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6.1\future_net\lib\lib_record.h
+
+1459511532 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6.1\future_net\lib\lib_io.h
+
+1458821090 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6.1\future_net\lib\lib_time.h
+
+1459586754 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6.1\future_net\io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1460010419 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6.1\future_net\munkres.cpp
+	"munkres.h"
+
+1460011173 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6.1\future_net\route.cpp
+	"route.h"
+
+1460001105 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound(and dynamic)-1.6.1\future_net\datastructure.cpp
+	"dataStructure.h"
+
+1460200569 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.7\future_net\datastructure.cpp
+	"dataStructure.h"
+
+1460201875 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.7\future_net\datastructure.h
+	<set>
+	<vector>
+	<iostream>
+	<cstdlib>
+	<string>
+	<bitset>
+	<string.h>
+
+1460198709 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.7\future_net\future_net.cpp
+	"route.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+	<iostream>
+
+1459999583 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.7\future_net\route.h
+	<vector>
+	<iostream>
+	<set>
+	<queue>
+	<string>
+	<cstring>
+	<stdlib.h>
+	<stack>
+	<stdio.h>
+	<ctime>
+	"lib_record.h"
+	"dataStructure.h"
+	"munkres.h"
+	"branchAndBound.h"
+
+1459339897 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.7\future_net\lib\lib_record.h
+
+1460200694 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.7\future_net\munkres.h
+	<string>
+	<iostream>
+	<cmath>
+	<utility>
+	<limits>
+	<bitset>
+	"dataStructure.h"
+
+1460200276 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.7\future_net\branchandbound.h
+	<queue>
+	<ctime>
+	"dataStructure.h"
+	"lib_record.h"
+	"munkres.h"
+
+1459511532 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.7\future_net\lib\lib_io.h
+
+1458821090 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.7\future_net\lib\lib_time.h
+
+1460198709 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.7\future_net\io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1460200694 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.7\future_net\munkres.cpp
+	"munkres.h"
+
+1460205623 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.7\future_net\route.cpp
+	"route.h"
+
+1460200276 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.7\future_net\branchandbound.cpp
+	"branchAndBound.h"
+
+1460272763 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9(lap)\future_net\datastructure.cpp
+	"dataStructure.h"
+
+1460272763 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9(lap)\future_net\datastructure.h
+	<set>
+	<vector>
+	<iostream>
+	<cstdlib>
+	<string>
+	<bitset>
+	<string.h>
+
+1460272946 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9(lap)\future_net\future_net.cpp
+	"route.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+	<iostream>
+
+1460272962 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9(lap)\future_net\route.h
+	<vector>
+	<iostream>
+	<set>
+	<queue>
+	<string>
+	<cstring>
+	<stdlib.h>
+	<stack>
+	<stdio.h>
+	<ctime>
+	"lib_record.h"
+	"dataStructure.h"
+	"branchAndBound.h"
+
+1459339897 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9(lap)\future_net\lib\lib_record.h
+
+1460200694 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9(lap)\future_net\munkres.h
+	<string>
+	<iostream>
+	<cmath>
+	<utility>
+	<limits>
+	<bitset>
+	"dataStructure.h"
+
+1460273624 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9(lap)\future_net\branchandbound.h
+	<queue>
+	<ctime>
+	"dataStructure.h"
+	"lib_record.h"
+	"lap.h"
+
+1460258148 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9(lap)\future_net\lap.h
+
+1459511532 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9(lap)\future_net\lib\lib_io.h
+
+1458821090 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9(lap)\future_net\lib\lib_time.h
+
+1460205668 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9(lap)\future_net\io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1460200694 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9(lap)\future_net\munkres.cpp
+	"munkres.h"
+
+1460273651 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9(lap)\future_net\route.cpp
+	"route.h"
+
+1460273651 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9(lap)\future_net\branchandbound.cpp
+	"branchAndBound.h"
+
+1460258269 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9(lap)\future_net\lap.cpp
+	"gnrl.h"
+	"lap.h"
+	<stdio.h>
+
+1429577754 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9(lap)\future_net\gnrl.h
+
+1460272763 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\datastructure.cpp
+	"dataStructure.h"
+
+1460358273 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\datastructure.h
+	<set>
+	<vector>
+	<iostream>
+	<cstdlib>
+	<string>
+	<bitset>
+	<string.h>
+
+1460287395 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\future_net.cpp
+	"route.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+	<iostream>
+
+1460272962 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\route.h
+	<vector>
+	<iostream>
+	<set>
+	<queue>
+	<string>
+	<cstring>
+	<stdlib.h>
+	<stack>
+	<stdio.h>
+	<ctime>
+	"lib_record.h"
+	"dataStructure.h"
+	"branchAndBound.h"
+
+1459339897 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\lib\lib_record.h
+
+1460275430 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\branchandbound.h
+	<queue>
+	<ctime>
+	"dataStructure.h"
+	"lib_record.h"
+	"lap.h"
+
+1460357154 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\lap.h
+
+1459511532 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\lib\lib_io.h
+
+1458821090 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\lib\lib_time.h
+
+1460205668 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1460375673 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\lap.cpp
+	"gnrl.h"
+	"lap.h"
+	<stdio.h>
+	<iostream>
+
+1429577754 c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\gnrl.h
+
+1460287285 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\route.cpp
+	"route.h"
+
+1460375706 source:c:\users\yangyong\desktop\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\branchandbound.cpp
+	"branchAndBound.h"
+
+1460375706 source:c:\users\yangyong\desktop\work\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\branchandbound.cpp
+	"branchAndBound.h"
+
+1460275430 c:\users\yangyong\desktop\work\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\branchandbound.h
+	<queue>
+	<ctime>
+	"dataStructure.h"
+	"lib_record.h"
+	"lap.h"
+
+1460358273 c:\users\yangyong\desktop\work\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\datastructure.h
+	<set>
+	<vector>
+	<iostream>
+	<cstdlib>
+	<string>
+	<bitset>
+	<string.h>
+
+1459339897 c:\users\yangyong\desktop\work\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\lib\lib_record.h
+
+1460357154 c:\users\yangyong\desktop\work\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\lap.h
+
+1460272763 source:c:\users\yangyong\desktop\work\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\datastructure.cpp
+	"dataStructure.h"
+
+1460375673 source:c:\users\yangyong\desktop\work\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\lap.cpp
+	"gnrl.h"
+	"lap.h"
+	<stdio.h>
+	<iostream>
+
+1429577754 c:\users\yangyong\desktop\work\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\gnrl.h
+
+1460287285 source:c:\users\yangyong\desktop\work\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\route.cpp
+	"route.h"
+
+1460272962 c:\users\yangyong\desktop\work\huaweicodecraft\git\codecraft2016\branchandbound\branchandbound-1.9.1(lap not exchange)\future_net\route.h
+	<vector>
+	<iostream>
+	<set>
+	<queue>
+	<string>
+	<cstring>
+	<stdlib.h>
+	<stack>
+	<stdio.h>
+	<ctime>
+	"lib_record.h"
+	"dataStructure.h"
+	"branchAndBound.h"
+
+1472196941 source:c:\users\yangyong\desktop\work\huaweicodecraft\codecraftgit\branchandbound-1.9.1(lap not exchange)\future_net\branchandbound.cpp
+	"branchAndBound.h"
+
+1472220917 c:\users\yangyong\desktop\work\huaweicodecraft\codecraftgit\branchandbound-1.9.1(lap not exchange)\future_net\branchandbound.h
+	<queue>
+	<ctime>
+	"dataStructure.h"
+	"lib_record.h"
+	"lap.h"
+
+1472215292 c:\users\yangyong\desktop\work\huaweicodecraft\codecraftgit\branchandbound-1.9.1(lap not exchange)\future_net\datastructure.h
+	<set>
+	<vector>
+	<iostream>
+	<cstdlib>
+	<string>
+	<bitset>
+	<string.h>
+
+1459339897 c:\users\yangyong\desktop\work\huaweicodecraft\codecraftgit\branchandbound-1.9.1(lap not exchange)\future_net\lib\lib_record.h
+
+1472204588 c:\users\yangyong\desktop\work\huaweicodecraft\codecraftgit\branchandbound-1.9.1(lap not exchange)\future_net\lap.h
+
+1472215286 source:c:\users\yangyong\desktop\work\huaweicodecraft\codecraftgit\branchandbound-1.9.1(lap not exchange)\future_net\datastructure.cpp
+	"dataStructure.h"
+
+1472204388 source:c:\users\yangyong\desktop\work\huaweicodecraft\codecraftgit\branchandbound-1.9.1(lap not exchange)\future_net\future_net.cpp
+	"route.h"
+	"lib_io.h"
+	"lib_time.h"
+	"stdio.h"
+	<iostream>
+
+1472212500 c:\users\yangyong\desktop\work\huaweicodecraft\codecraftgit\branchandbound-1.9.1(lap not exchange)\future_net\route.h
+	<vector>
+	<iostream>
+	<set>
+	<queue>
+	<string>
+	<cstring>
+	<stdlib.h>
+	<stack>
+	<stdio.h>
+	<ctime>
+	"lib_record.h"
+	"dataStructure.h"
+	"branchAndBound.h"
+
+1459511532 c:\users\yangyong\desktop\work\huaweicodecraft\codecraftgit\branchandbound-1.9.1(lap not exchange)\future_net\lib\lib_io.h
+
+1458821090 c:\users\yangyong\desktop\work\huaweicodecraft\codecraftgit\branchandbound-1.9.1(lap not exchange)\future_net\lib\lib_time.h
+
+1472195578 source:c:\users\yangyong\desktop\work\huaweicodecraft\codecraftgit\branchandbound-1.9.1(lap not exchange)\future_net\io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1472204649 source:c:\users\yangyong\desktop\work\huaweicodecraft\codecraftgit\branchandbound-1.9.1(lap not exchange)\future_net\lap.cpp
+	"gnrl.h"
+	"lap.h"
+	<stdio.h>
+	<iostream>
+
+1429577754 c:\users\yangyong\desktop\work\huaweicodecraft\codecraftgit\branchandbound-1.9.1(lap not exchange)\future_net\gnrl.h
+
+1472214152 source:c:\users\yangyong\desktop\work\huaweicodecraft\codecraftgit\branchandbound-1.9.1(lap not exchange)\future_net\route.cpp
+	"route.h"
+

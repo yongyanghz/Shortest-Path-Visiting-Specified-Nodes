@@ -1,0 +1,43 @@
+# Project: focus2016
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe -D__DEBUG__
+CC       = gcc.exe -D__DEBUG__
+WINDRES  = windres.exe
+OBJ      = future_net/obj/future_net.o future_net/obj/io.o future_net/obj/route.o future_net/obj/dataStructure.o future_net/obj/matrix.o future_net/obj/munkres.o
+LINKOBJ  = future_net/obj/future_net.o future_net/obj/io.o future_net/obj/route.o future_net/obj/dataStructure.o future_net/obj/matrix.o future_net/obj/munkres.o
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -L"./future_net/lib" -g3
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"./future_net/lib"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"./future_net/lib"
+BIN      = future_net/bin/future_net.exe
+CXXFLAGS = $(CXXINCS) -g3
+CFLAGS   = $(INCS) -g3
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+future_net/obj/future_net.o: future_net/future_net.cpp
+	$(CPP) -c future_net/future_net.cpp -o future_net/obj/future_net.o $(CXXFLAGS)
+
+future_net/obj/io.o: future_net/io.cpp
+	$(CPP) -c future_net/io.cpp -o future_net/obj/io.o $(CXXFLAGS)
+
+future_net/obj/route.o: future_net/route.cpp
+	$(CPP) -c future_net/route.cpp -o future_net/obj/route.o $(CXXFLAGS)
+
+future_net/obj/dataStructure.o: future_net/dataStructure.cpp
+	$(CPP) -c future_net/dataStructure.cpp -o future_net/obj/dataStructure.o $(CXXFLAGS)
+
+future_net/obj/matrix.o: future_net/matrix.cpp
+	$(CPP) -c future_net/matrix.cpp -o future_net/obj/matrix.o $(CXXFLAGS)
+
+future_net/obj/munkres.o: future_net/munkres.cpp
+	$(CPP) -c future_net/munkres.cpp -o future_net/obj/munkres.o $(CXXFLAGS)
