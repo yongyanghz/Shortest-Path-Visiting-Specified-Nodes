@@ -9,6 +9,20 @@ We implement the algorithm seaching for shortest path visiting specified nodes,<
 According to  Toshihide Ibaraki's paper<br />
    "Algorithms for Obtaining Shortest Paths Visiting Specified Nodes"<br />
     SIAM Review Vol. 15, No. 2, Part 1 (Apr., 1973), pp. 309-317
+   
+And we use LAPJV algorithm to solve assignment problem within the shortest path problem.
+
+version 1.0 - 4 September 1996 author: Roy Jonker @ MagicLogic Optimization Inc. e-mail: roy_jonker@magiclogic.com
+
+Code for Linear Assignment Problem, according to
+
+"A Shortest Augmenting Path Algorithm for Dense and Sparse Linear
+Assignment Problems," Computing 38, 325-340, 1987
+
+by
+
+R. Jonker and A. Volgenant, University of Amsterdam.
+
     
 Input file: <br />
 topo.csv: the information of the graph <br />
