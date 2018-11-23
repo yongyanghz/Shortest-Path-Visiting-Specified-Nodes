@@ -1,8 +1,8 @@
 /**************************************************************************************************************
 branchAndBound.cpp
    version 1.0 -  April 2016
-   author: Simon Yang
-   e-mail: yangyongeducation@163.com
+   author: Yong Yang
+   e-mail: yongyanglink@gmail.com
    Code for Obtaining Shortest path visiting specified nodes, according to
 
    "Algorithms for Obtaining Shortest Paths Visiting Specified Nodes"
